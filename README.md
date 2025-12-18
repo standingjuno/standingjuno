@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&text=Robotics%20engineer%20building%20robots&desc=to%20move,%20see,%20and%20think.&fontColor=88FA1D&fontSize=40&descAlignY=65)
 
 ### 👋 About me
-- Hi, This is **@its-seon!**
+- Hi, This is **@standingjuno(Sun Juno)!**
 - I design and build robots from prototype to real-world deployment.
 - Interested in LiDAR Perception, SLAM, and Autonomous systems.
 
@@ -16,7 +16,8 @@
 
 ### 🏆 Awards
 - **2025 Extreme Robot Competition Excellence Award**, KIRO
-- **2024, 2023 Gachon Talent Award**, Gachon University
+- **2024 Gachon Talent Award**, Gachon University
 - **2024 Drone Bot Challenge Excellence Award in Runway Detection** (Minister of National Defense Award), Republic of Korea Air Force
+- **2023 Gachon Talent Award**, Gachon University
 - **2023 Defense Robot Competition Chief of Staff of the Army Award**, Republic of Korea Army & KIRO
 - **2023 Defense Robot Competition Popularity Award**, KIRO
