@@ -11,7 +11,7 @@
 - **Undergraduate Researcher** at [**iRASC**](https://sites.google.com/view/irasc/home) from Gachon University, South Korea (2022.12 ~ 2024.07)
 
 ### 🚀 Careers
-- **Research Engineer** at [**SL Corporation**](https://www.slworld.com), [**Algorithm Development Team**] (2024.07 ~ Current)
+- **Research Engineer** at [**SL Corporation**](https://www.slworld.com), [**Algorithm Development Team**] (2024.07 ~ 2025.12)
 - **Freelancer** at [**Yeollim**](https://yeollim.com), [**SW Development Team**] (2022.07 ~ 2022.11)
 
 ### 🏆 Awards
