@@ -3,7 +3,7 @@
 ### 👋 About me
 - Hi, This is **@standingjuno(Sun Juno)!**
 - I design and build robots from prototype to real-world deployment.
-- Interested in **Navigation using VLA, LiDAR/Visual SLAM, Perception System**.
+- Interested in **Vision-Language Navigation, Traversability Navigation, Perception System**.
 
 ### 🎓 Education
 - **B.S in Industrial Engineering** from Gachon University, South Korea (2018.03 ~ 2025.02)
